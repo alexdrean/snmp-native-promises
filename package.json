@@ -1,0 +1,15 @@
+{
+  "name": "snmp-native-promises",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "snmp-native with promises support",
+  "main": "lib/snmp-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexdrean",
+  "license": "ISC",
+  "dependencies": {
+    "snmp-native": "^1.2.0"
+  }
+}
